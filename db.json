@@ -1,0 +1,50 @@
+[
+        {
+            "itemNumber": "212320",
+            "discontinued": false
+          },
+          {
+            "itemNumber": "MT500",
+            "discontinued": false
+          },
+          {
+            "itemNumber": "49162677",
+            "discontinued": false
+          },
+          {
+            "itemNumber": "48017184",
+            "discontinued": false
+          },
+          {
+            "itemNumber": "48130068",
+            "discontinued": true
+          },
+          {
+            "itemNumber": "0100SK",
+            "discontinued": false
+          },
+          {
+            "itemNumber": "211221",
+            "discontinued": false
+          },
+          {
+            "itemNumber": "0100ST",
+            "discontinued": false
+          },
+          {
+            "itemNumber": "48081096",
+            "discontinued": true
+          },
+          {
+            "itemNumber": "49945005",
+            "discontinued": false
+          },
+          {
+            "itemNumber": "48223105",
+            "discontinued": false
+          },
+          {
+            "itemNumber": "5317DE",
+            "discontinued": false
+          }
+        ]
